@@ -1,7 +1,7 @@
 {
   "name": "main",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm init\r npm install express\r npm start",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -14,6 +14,17 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "jest": "^25.1.0"
-  }
+    "jest": "^25.5.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticianardi/zookeepr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leticianardi/zookeepr/issues"
+  },
+  "homepage": "https://github.com/leticianardi/zookeepr#readme"
 }
